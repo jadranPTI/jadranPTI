@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m **Ghulam Fareed** — a **Software Engineer** and **Full Stack Developer** who loves building real-world products and learning new tech. Open to collaborations and exciting opportunities. 🚀
+I’m **Ghulam Fareed** — a **Software Engineer**, **AI Engineer** and **Full Stack Developer** who loves building real-world products and learning new tech. Open to collaborations and exciting opportunities. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-fareed-6597a5268/)
