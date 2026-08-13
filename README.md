@@ -2,7 +2,7 @@
 I’m **Ghulam Fareed** — a **Software Engineer**, **AI Engineer** and **Full Stack Developer** who loves building real-world products and learning new tech. Open to collaborations and exciting opportunities. 🚀
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulam-fareed-6597a5268/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-fareed-6597a5268/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmar.jadran.5)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923084450290)
 
